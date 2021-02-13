@@ -1,0 +1,13 @@
+.faqs {
+  width: 70vw;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.faqcontainer {
+  display: flex;
+  justify-content: center;
+}

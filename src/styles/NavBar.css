@@ -1,0 +1,45 @@
+.NavBar {
+  width: 100vw;
+  height: 50px;
+  color: white;
+  display: flex;
+  justify-content: flex-end;
+  position: fixed;
+  font-family: "Work Sans", sans-serif;
+  font-size: 20px;
+  background: #1b1a51e5;
+  padding: 10px 0;
+}
+
+.list {
+  display: inline-flex;
+  align-items: center;
+  transition: 0.2s;
+}
+
+.list ul {
+  display: inline-flex;
+  align-items: center;
+  margin: 0 50px;
+  list-style: none;
+}
+
+.list ul li {
+  margin: 0 10px;
+  font-size: 0.85em;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eda803;
+  cursor: pointer;
+}
+
+@media (max-width: 640px) {
+  .NavBar {
+    display: none;
+  }
+}

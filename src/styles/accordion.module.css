@@ -1,0 +1,29 @@
+.accordion {
+  border-bottom: 1px solid #ccc;
+  cursor: pointer;
+  padding: 30px 15px;
+  transition: all 0.2s;
+}
+.accordion h4 {
+  margin-bottom: 0;
+}
+.accordion h4:after {
+  content: "\02795";
+  font-size: 1.5rem;
+  color: #888;
+  float: right;
+}
+.accordion:last-child {
+  border-bottom: none;
+}
+.panel {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  margin-left: 25px;
+}
+.panel p {
+  border-left: 2px solid #1a818f;
+  margin-bottom: 0;
+  padding-left: 25px;
+}

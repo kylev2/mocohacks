@@ -7,7 +7,7 @@ function Sponsors() {
     <Fade>
       <center>
         <h1 className="title">Partners and Sponsors</h1>
-        <img src={bank} />
+        <img src={bank} alt="sponsors" />
         <p className="para">
           Interested in sponsoring us? Email us at:
             </p>

@@ -8,16 +8,29 @@ import Prizetracks from "./components/Prizetracks"
 //import Team from "./components/Team"
 
 function App() {
+  const meta = {
+    title: 'MoCoHacks',
+    description: 'Virtual Hackathon for MCPS Students',
+    canonical: 'http://mocohacks.org/',
+    meta: {
+      charset: 'utf-8',
+      name: {
+        keywords: 'react,meta,document,html,tags'
+      }
+    }
+  };
   return (
-    <div className="App">
-      <Main />
-      <About />
-      <Prizetracks />
-      <Schedules />
-      <FAQ />
-      <Sponsors />
-      {/* <Team /> */}
-    </div>
+    <DocumentMeta {...meta}>
+      <div className="App">
+        <Main />
+        <About />
+        <Prizetracks />
+        <Schedules />
+        <FAQ />
+        <Sponsors />
+        {/* <Team /> */}
+      </div>
+    </DocumentMeta>
   );
 }
 

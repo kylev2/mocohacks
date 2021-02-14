@@ -1,0 +1,19 @@
+@media (min-width: 641px) {
+  .para-video-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+    margin-top: 5em;
+  }
+  .page-2 {
+    display: flex;
+    justify-content: center;
+  }
+  .para-2 {
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+    text-align: center;
+  }
+}

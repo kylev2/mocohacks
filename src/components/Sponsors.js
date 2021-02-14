@@ -1,12 +1,13 @@
 import React from 'react';
 import Fade from 'react-reveal/Fade';
 import bank from "../images/Logos/bank.svg";
+import '../styles/Sponsors.css';
 
 function Sponsors() {
   return (
     <Fade>
       <center>
-        <h1 className="title">Partners and Sponsors</h1>
+        <h1 className="title sponsors">Partners and Sponsors</h1>
         <img src={bank} alt="sponsors" />
         <p className="para">
           Interested in sponsoring us? Email us at:

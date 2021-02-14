@@ -6,8 +6,8 @@ function Prizetracks() {
     return (
         <div className="body tracks">
             <div className="bg-color">
-                <div className="page-2">
-                    <div className="para-video-2">
+                <div className="page page-2">
+                    <div className="para-video para-video-2">
                         <h1 className="title">Project Categories:</h1>
                         <p className="para para-2">
                             <h3>

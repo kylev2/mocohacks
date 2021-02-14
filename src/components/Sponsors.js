@@ -8,7 +8,7 @@ function Sponsors() {
     <Fade>
       <center>
         <h1 className="title sponsors">Partners and Sponsors</h1>
-        <img src={bank} alt="sponsors" />
+        <a href="https://hackclub.com/bank/"><img src={bank} alt="sponsors" /></a>
         <p className="para">
           Interested in sponsoring us? Email us at:
             </p>

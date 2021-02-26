@@ -10,11 +10,11 @@ function About() {
             <Fade left>
               <h1 className="title">What is MoCoHacks?</h1>
               <p className="para">
-                Because MoCoHacks was cancelled in 2020 due to COVID-19, we have decided to run a virtual event this year. MoCoHacks is a MCPS student-run virtual hackathon organized for all MCPS high school students.
+              MoCoHacks is a hackathon: A 36-hour coding marathon where you create a ‘hack’ (programming solution) addressing a problem you see around you. The problem can be big or small, serious or comedic. All that matters is that your hack is your creation! Throughout the event, there will be talks, workshops, and mini-tournaments that you can participate in as well!
               </p>
               <br></br>
               <p className="para">
-                Don’t worry though, we will still be providing all hackers the premiere hackathon experience: FREE SWAG, MERCH, PRIZES, STICKERS, and WORKSHOPS for everyone!
+              This year, MoCoHacks will be held virtually due to COVID-19. Don’t worry though, we will still be providing all hackers the premiere hackathon experience: swag, merch, prizes, stickers, and workshops for everyone who participates in the event!
               </p>
             </Fade>
           </div>

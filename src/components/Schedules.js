@@ -11,7 +11,7 @@ function Schedules() {
         <Iframe
           url="https://airtable.com/embed/shrgO9QNnZJYWcvb7?=pink&layout=card&viewControls=on"
           width="100vw"
-          height="100%"
+          height="140%"
           frameBorder="0"
           className="airtable-embed"
           style={{ background: "transparent", border: "1px solid #ccc" }}

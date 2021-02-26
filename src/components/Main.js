@@ -8,7 +8,7 @@ function Main() {
       <div className="landing">
         <div className="heading">
           <h1>MoCoHacks</h1>
-          <h3><i>cohosted by MCEDC</i></h3>
+          <h3 style={{ paddingTop: "-30px",paddingBottom:"50px" }}><i>cohosted by MCEDC</i></h3>
           <p>Virtual, MCPS Students</p>
           <p style={{ color: "#EDA803" }}>March 19-21, 2021</p>
           <a href=" http://bit.ly/mch-register2021" target="_blank"><button className="register">Register Here!</button></a>

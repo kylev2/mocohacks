@@ -9,6 +9,7 @@ function Sponsors() {
       <center>
         <h1 className="title sponsors">Partners and Sponsors</h1>
         <a href="https://hackclub.com/bank/"><img src={bank} alt="sponsors" /></a>
+    <a href="https://thinkmoco.com/"><img src="https://cdn.discordapp.com/attachments/684952656405594160/814885837715537970/MCEDC-white1.png" alt="sponsors" /></a>
         <p className="para">
           Interested in sponsoring us? Email us at:
             </p>

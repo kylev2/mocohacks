@@ -23,6 +23,10 @@ function FAQ() {
               content="MoCoHacks will be hosted VIRTUALLY ON DISCORD AND ZOOM 🥵😎💻"
             />
             <Accordion
+              title="Why do you ask for student ID's in the registration form?"
+              content="We ask for student MCPS ID numbers to verify that they are currently high school students in the Montgomery County Public School system. MoCoHacks is a free hackathon for students and by students only; this process ensures us that no outsiders in the county nor people outside of ages of 14-18 can enter our event/event platform (for security interests), aside from our trusted mentors and guest speakers (who are either college students studying CS, and/or professionals in the tech field). All the personal information submitted by students will only be seen by student organizers (who are also all high schoolers in MCPS). All the information students enter will be kept confidential. Additionally, if students want free swag from MoCoHacks and its sponsors, they are given the option to input their address."
+            />
+            <Accordion
               title="Who can attend?"
               content="All high school students attending a public school in Montgomery County, Maryland are invited to MoCoHacks. Unfortunately, we cannot accept middle school or college students."
             />

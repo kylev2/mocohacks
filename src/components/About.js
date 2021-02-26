@@ -10,7 +10,7 @@ function About() {
             <Fade left>
               <h1 className="title">What is MoCoHacks?</h1>
               <p className="para">
-              MoCoHacks is a hackathon: A 36-hour coding marathon where you create a ‘hack’ (programming solution) addressing a problem you see around you. The problem can be big or small, serious or comedic. All that matters is that your hack is your creation! Throughout the event, there will be talks, workshops, and mini-tournaments that you can participate in as well!
+              MoCoHacks is a free, all-inclusive, 36-hour+ hackathon for all public high school students in Montgomery County, Maryland. A hackathon is coding marathon where you create a ‘hack’ (programming solution) addressing a problem you see around you. The hack can be big or small, serious or comedic. All that matters is that your hack is your creation! Throughout the event, there will be talks, workshops, and tournaments that you can participate in as well!
               </p>
               <br></br>
               <p className="para">

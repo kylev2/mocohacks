@@ -1,4 +1,32 @@
-img {
-  height: 10vw;
+.row > a > img {
   margin-bottom: 1em;
+  height: 75px;
+}
+
+.bigger > a > img {
+  height: 115px;
+}
+
+.sponsorsBox {
+  margin: 3em 0;
+}
+
+.row {
+  height: auto;
+  flex-wrap: wrap;
+  margin: 20px 0;
+}
+
+.row > * {
+  margin: 30px;
+  height: 100%;
+}
+
+@media (max-width: 640px) {
+  .row > a > img {
+    height: 50px;
+  }
+  .bigger > a > img {
+    height: 75px;
+  }
 }

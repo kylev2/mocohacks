@@ -8,8 +8,9 @@ import Accordion from "../components/Accordion.js";
 function FAQ() {
   return (
     <div>
-      <div className="faqcontainer" style={{paddingTop:"350px"}}>
+      <div className="faqcontainer" style={{ paddingTop: "350px" }}>
         <section className="faqs">
+          <h1 className="title">FAQs</h1>
           <div className="container">
 
             <Accordion title="What is a hackathon?" content="A 36-hour coding marathon filled with fun events and a chance to win a prize!" />

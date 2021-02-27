@@ -97,9 +97,14 @@ iframe {
   min-width: 500px;
 }
 
+.youtube {
+  max-height: 300px;
+}
+
 center {
   margin-top: 5em;
   padding-bottom: 5em;
+  height: auto;
 }
 
 /* Scrollbar */

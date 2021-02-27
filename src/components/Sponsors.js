@@ -30,7 +30,7 @@ function Sponsors() {
             </p>
         <a href="mailto:team@mocohacks.org">team@mocohacks.org</a>
         <br />
-        <a href="./MoCoHacks Virtual 2021_ Prospectus.pdf" download="MoCoHacks Virtual 2021_ Prospectus.pdf">Download our prospectus here!</a>
+        <a href="./mch-2021-prospectus.pdf" download="mch-2021-prospectus.pdf">Download our prospectus here!</a>
       </center>
     </Fade>
   )

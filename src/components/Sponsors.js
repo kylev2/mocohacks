@@ -5,7 +5,7 @@ import mcedc from "../images/Logos/MCEDC-1.png";
 import hyperx from "../images/Logos/HyperX-1.svg";
 import voiceflow from "../images/Logos/voiceflow.png"
 import logitech from "../images/Logos/logitech.svg"
-import porkbun from "../images/Logos/Porkbun_RGB.svg";
+import porkbun from "../images/Logos/porkbun_white.svg";
 import '../styles/Sponsors.css';
 
 function Sponsors() {

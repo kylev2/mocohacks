@@ -6,6 +6,7 @@ import hyperx from "../images/Logos/HyperX-1.svg";
 import voiceflow from "../images/Logos/voiceflow.png"
 import logitech from "../images/Logos/logitech.svg"
 import porkbun from "../images/Logos/Porkbun_RGB.svg";
+import aops from "../images/Logos/AoPS.png";
 import '../styles/Sponsors.css';
 
 function Sponsors() {
@@ -22,7 +23,10 @@ function Sponsors() {
             <a href="https://www.logitech.com/en-us"><img src={logitech} alt="sponsors" /></a>
             <a href="https://www.hyperxgaming.com/unitedstates/us"><img src={hyperx} alt="sponsors" /></a>
             <a href="https://porkbun.com/"><img src={porkbun} alt="sponsors" /></a>
+          </div>
+          <div className="row">
             <a href="https://www.voiceflow.com/"><img src={voiceflow} alt="sponsors" /></a>
+            <a href="https://artofproblemsolving.com/"><img src={aops} alt="sponsors" /></a>
           </div>
         </div>
         <p className="para">

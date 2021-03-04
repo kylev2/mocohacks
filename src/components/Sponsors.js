@@ -7,6 +7,8 @@ import voiceflow from "../images/Logos/voiceflow.png"
 import logitech from "../images/Logos/logitech.svg"
 import porkbun from "../images/Logos/porkbun_white.png";
 import aops from "../images/Logos/aops.png";
+import password from "../images/Logos/1password.png"
+import sentry from "../images/Logos/sentry.png"
 import '../styles/Sponsors.css';
 
 function Sponsors() {
@@ -17,6 +19,7 @@ function Sponsors() {
         <div className="sponsorsBox">
           <div className="row bigger">
             <a href="https://hackclub.com/bank/"><img src={bank} alt="sponsors" /></a>
+            <a href ="https://sentry.io/"><img src={sentry} alt="sponsors" /></a>
             <a href="https://thinkmoco.com/"><img src={mcedc} alt="sponsors" className="logitech" /></a>
           </div>
           <div className="row">
@@ -27,6 +30,7 @@ function Sponsors() {
           <div className="row">
             <a href="https://www.voiceflow.com/"><img src={voiceflow} alt="sponsors" /></a>
             <a href="https://artofproblemsolving.com/"><img src={aops} alt="sponsors" /></a>
+            <a href="https://1password.com/"><img src={password} alt="sponsors" /></a>
           </div>
         </div>
         <p className="para">

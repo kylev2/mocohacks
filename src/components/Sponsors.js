@@ -6,7 +6,7 @@ import hyperx from "../images/Logos/HyperX-1.svg";
 import voiceflow from "../images/Logos/voiceflow.png"
 import logitech from "../images/Logos/logitech.svg"
 import porkbun from "../images/Logos/porkbun_white.png";
-import aops from "../images/Logos/AoPS.png";
+import aops from "../images/Logos/aops.png";
 import '../styles/Sponsors.css';
 
 function Sponsors() {

@@ -9,6 +9,12 @@ import porkbun from "../images/Logos/porkbun_white.png";
 import aops from "../images/Logos/aops.png";
 import password from "../images/Logos/1password.png"
 import sentry from "../images/Logos/sentry.png"
+import balsamiq from "../images/Logos/balsamiq.svg"
+import ewis from "../images/Logos/elevatewomeninstem.svg"
+import escelate from "../images/Logos/point3-escalate.svg"
+import umd from "../images/Logos/UMD-Iribe-Diversity.png"
+import secwhite from "../images/Logos/Point3Sec_White.svg"
+
 import '../styles/Sponsors.css';
 
 function Sponsors() {
@@ -31,6 +37,13 @@ function Sponsors() {
             <a href="https://www.voiceflow.com/"><img src={voiceflow} alt="sponsors" /></a>
             <a href="https://artofproblemsolving.com/"><img src={aops} alt="sponsors" /></a>
             <a href="https://1password.com/"><img src={password} alt="sponsors" /></a>
+          </div>
+          <div className="row">
+            <a href="https://balsamiq.com/"><img src={balsamiq} alt="sponsors" /></a>
+            <a href="https://www.elevatewomeninstem.com/"><img src={ewis} alt="sponsors" /></a>
+            <a href="https://ittakesahuman.com/escalate.html"><img src={escelate} alt="sponsors" /></a>
+            <a href="https://inclusion.cs.umd.edu/"><img src={umd} alt="sponsors" /></a>
+            <a href="https://ittakesahuman.com/"><img src={secwhite} alt="sponsors" /></a>
           </div>
         </div>
         <p className="para">

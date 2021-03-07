@@ -14,7 +14,14 @@ import ewis from "../images/Logos/elevatewomeninstem.svg"
 import escelate from "../images/Logos/point3-escalate.svg"
 import umd from "../images/Logos/UMD-Iribe-Diversity.png"
 import secwhite from "../images/Logos/Point3Sec_White.svg"
-
+import email from "../images/icons/email.svg"
+import facebook from "../images/icons/facebook.svg"
+import instagram from "../images/icons/instagram.svg"
+import linkedin from "../images/icons/linkedin.svg"
+import twitter from "../images/icons/twitter.svg"
+import website from "../images/icons/website.svg"
+import yt from "../images/icons/youtube.svg"
+import discord from "../images/icons/discord.svg"
 import '../styles/Sponsors.css';
 
 function Sponsors() {
@@ -52,6 +59,21 @@ function Sponsors() {
         <a href="mailto:team@mocohacks.org">team@mocohacks.org</a>
         <br />
         <a href="./mch-2021-prospectus.pdf" download="mch-2021-prospectus.pdf">Download our prospectus here!</a>
+        <br />
+        <br />
+        <div className="sponsorsBox">
+        <div className="row socials">
+          
+            <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=Event+Inquiry+&to=outreach@mocohacks.org"><img src={email} alt="sponsors" /></a>
+            <a href="https://www.youtube.com/channel/UCyrDgtxvPBfwu0LqrAa-QUw"><img src={yt} alt="sponsors" /></a>
+            <a href="https://www.instagram.com/mocohacks/"><img src={instagram} alt="sponsors" /></a>
+            <a href="https://www.facebook.com/mocohacksorg"><img src={facebook} alt="sponsors" /></a>
+            <a href="https://twitter.com/mocohacks"><img src={twitter} alt="sponsors" /></a>
+            <a href="https://mocohacks.org/"><img src={website} alt="sponsors" /></a>
+            <a href="https://www.linkedin.com/company/mocohacks/"><img src={linkedin} alt="sponsors" /></a>
+            <a href="https://discord.io/mocohacks"><img src={discord} alt="sponsors" /></a>
+           
+          </div></div>
       </center>
     </Fade>
   )

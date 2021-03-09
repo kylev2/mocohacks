@@ -29,7 +29,7 @@ function FAQ() {
             />
             <Accordion
               title="Who can attend?"
-              content="All high school students attending a public school in Montgomery County, Maryland are invited to MoCoHacks. Unfortunately, we cannot accept middle school students, college students, private school studnets, nor high schoolers outside of MCPS at this time."
+              content="All high school students attending a public school in Montgomery County, Maryland are invited to MoCoHacks. Unfortunately, we cannot accept middle school students, college students, private school students, nor high schoolers outside of MCPS at this time."
             />
             <Accordion
               title="How much does it cost?"

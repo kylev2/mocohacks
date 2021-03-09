@@ -55,7 +55,7 @@ function Prizetracks() {
                             <h3>
                                 Most Humorous Hack
                         </h3>
-                        Make us laugh. PERIODT. Prize: TBD 🤣🤣
+                        Make us laugh. PERIODT. Prize: TBD
                     </p>
                         <br></br>
                     </div>

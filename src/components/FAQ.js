@@ -21,7 +21,7 @@ function FAQ() {
             />
             <Accordion
               title="Where will MoCoHacks be?"
-              content="MoCoHacks will be hosted virtually, on Discord and Zoom 🥵😎💻"
+              content="MoCoHacks will be hosted virtually, on Discord and Zoom"
             />
             <Accordion
               title="Why do you ask for student ID's in the registration form?"

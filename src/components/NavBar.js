@@ -8,7 +8,7 @@ function NavBar() {
   return (
     <>
       <div className="NavBar">
-        <a href="https://hackclub.com/">
+        <a href="https://hackclub.com/" target="_blank">
           <img className="banner" src={banner}></img>
         </a>
         <div className="end">

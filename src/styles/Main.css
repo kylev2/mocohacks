@@ -39,8 +39,8 @@ p {
   font-size: 1.25em;
   margin-top: 25px;
   padding: 0.75em 4em;
-  /* background-color: #fb5555; */
-  background-color: rgb(179, 179, 179);
+  background-color: #fb55555d;
+  /* background-color: rgb(179, 179, 179); */
   border: none;
   border-radius: 5px;
 }

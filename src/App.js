@@ -3,6 +3,7 @@ import Main from './components/Main';
 import About from './components/About'
 import Schedules from "./components/Schedules"
 import FAQ from "./components/FAQ"
+import Speakers from "./components/Speakers"
 import Sponsors from "./components/Sponsors"
 import Prizetracks from "./components/Prizetracks"
 import DocumentMeta from 'react-document-meta';
@@ -26,6 +27,7 @@ function App() {
         <Main />
         <About />
         <Prizetracks />
+        <Speakers/>
         <Schedules />
         <FAQ />
         <Sponsors />

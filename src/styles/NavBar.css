@@ -3,12 +3,30 @@
   height: 50px;
   color: white;
   display: flex;
-  justify-content: flex-end;
   position: fixed;
   font-family: "Work Sans", sans-serif;
   font-size: 20px;
   background: #1b1a51e5;
   padding: 10px 0;
+}
+
+.banner {
+  height: 200px;
+  margin-top: -10px;
+  margin-left: 30px;
+  transition: 0.15s
+}
+
+.banner:hover {
+  transition: 0.15s;
+  opacity: 0.8;
+}
+
+.end {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 75px;
+  width: 100%;
 }
 
 .list {
@@ -20,7 +38,6 @@
 .list ul {
   display: inline-flex;
   align-items: center;
-  margin: 0 50px;
   list-style: none;
 }
 

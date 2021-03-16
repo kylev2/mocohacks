@@ -82,7 +82,7 @@ function Sponsors() {
             <a href="https://twitter.com/mocohacks"><img src={twitter} alt="sponsors" /></a>
             <a href="https://mocohacks.org/"><img src={website} alt="sponsors" /></a>
             <a href="https://www.linkedin.com/company/mocohacks/"><img src={linkedin} alt="sponsors" /></a>
-          {/*  <a href=""><img src={discord} alt="sponsors" /></a> */} 
+           <a href="https://discord.com/invite/mocohacks"><img src={discord} alt="sponsors" /></a> 
            
           </div></div>
       </center>

@@ -27,7 +27,7 @@ function App() {
         <Main />
         <About />
         <Prizetracks />
-        <Speakers/>
+        <Speakers />
         <Schedules />
         <FAQ />
         <Sponsors />

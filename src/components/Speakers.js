@@ -2,7 +2,7 @@ import React from "react"
 
 import '../styles/Speakers.css'
 
-export default Speakers = () => {
+const Speakers = () => {
 
 
     return(<><center>
@@ -11,3 +11,4 @@ export default Speakers = () => {
         )
 
 }
+export default Speakers

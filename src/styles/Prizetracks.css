@@ -17,3 +17,39 @@
     text-align: center;
   }
 }
+
+.card {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(auto, 1fr));
+}
+
+.card-front {
+  border: 10px solid #000122;
+  height: 300px;
+  background: #180c4e;
+  overflow: hidden;
+  border-radius: 25px;
+  box-shadow: inset 0px -7px 0px 0px #0000004d;
+}
+
+.text {
+  font-size: 1em;
+  text-align: center;
+  margin: 25px 25px;
+}
+
+p {
+  font-size: 1em;
+}
+
+/* .overlay {
+  background-color: black;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: 0.15s;
+}
+
+.overlay:hover {
+  opacity: 1;
+} */

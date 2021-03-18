@@ -73,7 +73,7 @@ function Sponsors() {
         <br />
         <br />
         <div className="sponsorsBox">
-        <div className="row socials">
+        <div className="row socials" style={{marginTop: "-25px"}}>
           
             <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=Event+Inquiry+&to=outreach@mocohacks.org"><img src={email} alt="sponsors" /></a>
             <a href="https://www.youtube.com/channel/UCyrDgtxvPBfwu0LqrAa-QUw"><img src={yt} alt="sponsors" /></a>

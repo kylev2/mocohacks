@@ -1,7 +1,9 @@
 import React from 'react';
 import NavBar from './NavBar'
+import Countdown from 'react-countdown';
 
 function Main() {
+  var eventStart = new Date(1616202000)
   return (
     <div className="body">
       <NavBar />

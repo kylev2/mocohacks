@@ -8,7 +8,7 @@ import Accordion from "../components/Accordion.js";
 function FAQ() {
   return (
     <div>
-      <div className="faqcontainer" style={{ paddingTop: "350px" }}>
+      <div className="faqcontainer" style={{ paddingTop: "0" }}>
         <section className="faqs">
           <h1 className="title">FAQs</h1>
           <div className="container">

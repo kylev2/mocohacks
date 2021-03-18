@@ -10,6 +10,7 @@
     "bootstrap": "^4.6.0",
     "gatsby": "^3.1.0",
     "mdbreact": "^5.0.1",
+    "webpack": "4.44.2",
     "react": "^17.0.1",
     "react-bootstrap": "^1.5.2",
     "react-countdown": "^2.3.1",

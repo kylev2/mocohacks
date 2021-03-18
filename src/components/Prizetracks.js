@@ -5,11 +5,13 @@ import '../styles/Prizetracks.css';
 
 function Prizetracks() {
     return (
-        <Iframe url="https://upgood.org/"
-            id="schedule"
-            width="100%"
-            height="850px"
-        />
+        <center>
+            <Iframe url="https://upgood.org/"
+                id="schedule"
+                width="85%"
+                height="750px"
+            />
+        </center>
     )
 }
 

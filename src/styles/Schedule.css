@@ -50,6 +50,7 @@ table th {
 .pleaseCenter {
   display: flex;
   justify-content: center;
+  height: auto;
 }
 
 .schedulePage {

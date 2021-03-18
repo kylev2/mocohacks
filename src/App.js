@@ -7,7 +7,7 @@ import Speakers from "./components/Speakers"
 import Sponsors from "./components/Sponsors"
 import Prizetracks from "./components/Prizetracks"
 import DocumentMeta from 'react-document-meta';
-import { Animator, ScrollContainer, ScrollPage, batch, FadeIn, MoveIn, MoveOut, StickyIn, ZoomIn, FadeUp } from "react-scroll-motion";
+import { Animator, ScrollContainer, ScrollPage, batch, FadeIn, MoveOut, StickyIn, ZoomIn, FadeUp } from "react-scroll-motion";
 //import Team from "./components/Team"
 
 function App() {
@@ -26,12 +26,8 @@ function App() {
   return (
     <DocumentMeta {...meta}>
       <div className="App">
+        <Main />
         <ScrollContainer>
-          <ScrollPage page={0}>
-            <Animator animation={MoveOut}>
-              <Main />
-            </Animator>
-          </ScrollPage>
           <ScrollPage page={1}>
             <Animator animation={FadeUp}>
               <About />

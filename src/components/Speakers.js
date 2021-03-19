@@ -19,7 +19,7 @@ function Speakers() {
                             <img src={Latta} className="scale"></img>
                         </div>
                     </div>
-                    <b><p className="text" style={{ fontSize: "1.5em" }}>Zack Latta</p></b>
+                    <b><p className="text" style={{ fontSize: "1.5em" }}>Zach Latta</p></b>
                     <p className="text">
                         Founder and Executive Director of Hack Club. Thiel Fellow; Forbes 30 Under 30 List.
                     </p>

@@ -25,6 +25,7 @@ import discord from "../images/icons/discord.svg"
 import techone from "../images/Logos/TechOne.svg"
 import stickergiant from "../images/Logos/StickerGiant-white.svg"
 import capitol from "../images/Logos/capitol.png"
+import awit from "../images/Logos/awit-logo.svg"
 import mule from  "../images/Logos/stickermule.svg"
 
 import '../styles/Sponsors.css';
@@ -61,6 +62,7 @@ function Sponsors() {
             <a href="https://www.captechu.edu/"><img src={capitol} alt="sponsors" /></a>
             {/*<a href="https://www.stickergiant.com/"><img src={stickergiant} alt="sponsors" /></a>*/}
             <a href="https://techone.dev/ "><img src={techone} alt="sponsors" /></a>
+            <a href="https://advancingwomenintech.org/ "><img src={awit} alt="sponsors" /></a>
             <a href="https://techone.dev/ "><img src={mule} alt="sponsors" /></a>
           </div>
         </div>

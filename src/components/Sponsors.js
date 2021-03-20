@@ -44,7 +44,6 @@ function Sponsors() {
             <a href="https://sentry.io/"><img src={sentry} alt="sponsors" /></a>
             <a href="https://www.logitech.com/en-us"><img src={logitech} alt="sponsors" /></a>
             <a href="https://www.hyperxgaming.com/unitedstates/us"><img src={hyperx} alt="sponsors" /></a>
-            <a href="https://advancingwomenintech.org/"><img src={awit} alt="sponsors" /></a>
           </div>
           <div className="row">
             <a href="https://porkbun.com/"><img src={porkbun} alt="sponsors" /></a>
@@ -64,7 +63,8 @@ function Sponsors() {
             {/*<a href="https://www.stickergiant.com/"><img src={stickergiant} alt="sponsors" /></a>*/}
             <a href="https://techone.dev/ "><img src={techone} alt="sponsors" /></a>
             <a href="https://advancingwomenintech.org/ "><img src={awit} alt="sponsors" /></a>
-            <a href="https://techone.dev/ "><img src={mule} alt="sponsors" /></a>
+            <a href="https://www.stickermule.com/ "><img src={mule} alt="sponsors" /></a>
+            <a href="https://advancingwomenintech.org/"><img src={awit} alt="sponsors" /></a>
           </div>
         </div>
         <p className="para">

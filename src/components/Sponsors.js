@@ -64,7 +64,6 @@ function Sponsors() {
             <a href="https://techone.dev/ "><img src={techone} alt="sponsors" /></a>
             <a href="https://advancingwomenintech.org/ "><img src={awit} alt="sponsors" /></a>
             <a href="https://www.stickermule.com/ "><img src={mule} alt="sponsors" /></a>
-            <a href="https://advancingwomenintech.org/"><img src={awit} alt="sponsors" /></a>
           </div>
         </div>
         <p className="para">

@@ -25,8 +25,8 @@ import discord from "../images/icons/discord.svg"
 import techone from "../images/Logos/TechOne.svg"
 import stickergiant from "../images/Logos/StickerGiant-white.svg"
 import capitol from "../images/Logos/capitol.png"
-import awit from "../images/Logos/awit-logo.svg"
-import mule from  "../images/Logos/stickermule.svg"
+import awit from "../images/Logos/AWIT.svg"
+import mule from "../images/Logos/stickermule.svg"
 
 import '../styles/Sponsors.css';
 
@@ -44,6 +44,7 @@ function Sponsors() {
             <a href="https://sentry.io/"><img src={sentry} alt="sponsors" /></a>
             <a href="https://www.logitech.com/en-us"><img src={logitech} alt="sponsors" /></a>
             <a href="https://www.hyperxgaming.com/unitedstates/us"><img src={hyperx} alt="sponsors" /></a>
+            <a href="https://advancingwomenintech.org/"><img src={awit} alt="sponsors" /></a>
           </div>
           <div className="row">
             <a href="https://porkbun.com/"><img src={porkbun} alt="sponsors" /></a>
@@ -75,8 +76,8 @@ function Sponsors() {
         <br />
         <br />
         <div className="sponsorsBox">
-        <div className="row socials" style={{marginTop: "-25px"}}>
-          
+          <div className="row socials" style={{ marginTop: "-25px" }}>
+
             <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=Event+Inquiry+&to=outreach@mocohacks.org"><img src={email} alt="sponsors" /></a>
             <a href="https://www.youtube.com/channel/UCyrDgtxvPBfwu0LqrAa-QUw"><img src={yt} alt="sponsors" /></a>
             <a href="https://www.instagram.com/mocohacks/"><img src={instagram} alt="sponsors" /></a>
@@ -84,8 +85,8 @@ function Sponsors() {
             <a href="https://twitter.com/mocohacks"><img src={twitter} alt="sponsors" /></a>
             <a href="https://mocohacks.org/"><img src={website} alt="sponsors" /></a>
             <a href="https://www.linkedin.com/company/mocohacks/"><img src={linkedin} alt="sponsors" /></a>
-           <a href="https://discord.com/invite/mocohacks"><img src={discord} alt="sponsors" /></a> 
-           
+            <a href="https://discord.com/invite/mocohacks"><img src={discord} alt="sponsors" /></a>
+
           </div></div>
       </center>
     </Fade>

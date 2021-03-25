@@ -10,12 +10,12 @@ function About() {
             <Fade left>
               <h1 className="title">What is MoCoHacks?</h1>
               <p className="para">
-              MoCoHacks is a free, all-inclusive, 36-hour+ hackathon for all public high school students in Montgomery County, Maryland. A hackathon is coding marathon where you create a ‘hack’ (programming solution) addressing a problem you see around you. The hack can be big or small, serious or comedic. All that matters is that your hack is your creation! Throughout the event, there will be talks, workshops, and tournaments that you can participate in as well!
+                MoCoHacks is a free-to-attend 36-hour hackathon for MCPS high school students, organized by high school students from MCPS. This year, MoCoHacks will be held virtually in order to keep attendees safe.
               </p>
               <br></br>
-              <p className="para">
-              This year, MoCoHacks will be held virtually due to COVID-19. Don’t worry though, we will still be providing all hackers the premiere hackathon experience: swag, merch, prizes, stickers, and workshops for everyone who participates in the event!
-              </p>
+              <br></br>
+              <br></br>
+              <br></br>
             </Fade>
           </div>
           <iframe title="MoCoHacks Video" src="https://www.youtube.com/embed/mY7rK9ma0h4" className="youtube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"

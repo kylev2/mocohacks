@@ -27,6 +27,13 @@ import stickergiant from "../images/Logos/StickerGiant-white.svg"
 import capitol from "../images/Logos/capitol.png"
 import awit from "../images/Logos/AWIT.svg"
 import mule from "../images/Logos/stickermule.svg"
+import intellipoint from "../images/Logos/intellipoint.png"
+import inky from "../images/Logos/inky.png"
+import brivo from "../images/Logos/brivo.png"
+import modus from "../images/Logos/modus.svg"
+import replit from "../images/Logos/replit.svg"
+import wolfram from "../images/Logos/wolfram.png"
+import arduino from "../images/Logos/arduino.png"
 
 import '../styles/Sponsors.css';
 
@@ -40,30 +47,44 @@ function Sponsors() {
             <a href="https://hackclub.com/bank/"><img src={bank} alt="sponsors" /></a>
             <a href="https://thinkmoco.com/"><img src={mcedc} alt="sponsors" className="logitech" /></a>
           </div>
-          <div className="row">
-            <a href="https://sentry.io/"><img src={sentry} alt="sponsors" /></a>
-            <a href="https://www.logitech.com/en-us"><img src={logitech} alt="sponsors" /></a>
-            <a href="https://www.hyperxgaming.com/unitedstates/us"><img src={hyperx} alt="sponsors" /></a>
-          </div>
-          <div className="row">
-            <a href="https://porkbun.com/"><img src={porkbun} alt="sponsors" /></a>
-            <a href="https://www.voiceflow.com/"><img src={voiceflow} alt="sponsors" /></a>
-            <a href="https://artofproblemsolving.com/"><img src={aops} alt="sponsors" /></a>
-            <a href="https://1password.com/"><img src={password} alt="sponsors" /></a>
-          </div>
-          <div className="row">
-            <a href="https://balsamiq.com/"><img src={balsamiq} alt="sponsors" /></a>
-            <a href="https://www.elevatewomeninstem.com/"><img src={ewis} alt="sponsors" /></a>
-            <a href="https://ittakesahuman.com/escalate.html"><img src={escelate} alt="sponsors" /></a>
-            <a href="https://inclusion.cs.umd.edu/"><img src={umd} alt="sponsors" /></a>
-            <a href="https://ittakesahuman.com/"><img src={secwhite} alt="sponsors" /></a>
+          <div className="row bigger">
+            <a href="https://www.inky.com/"><img src={inky} alt="sponsors" /></a>
+            <a href="https://www.brivo.com/"><img src={brivo} alt="sponsors" /></a>
+            <a href="http://www.intellipoint.co/"><img src={intellipoint} alt="sponsors" /></a>
           </div>
           <div className="row bigger">
+            <a href="https://sentry.io/"><img src={sentry} alt="sponsors" /></a>
+            <a href="https://moduscreate.com/"><img src={modus} alt="sponsors" /></a>
             <a href="https://www.captechu.edu/"><img src={capitol} alt="sponsors" /></a>
-            {/*<a href="https://www.stickergiant.com/"><img src={stickergiant} alt="sponsors" /></a>*/}
-            <a href="https://techone.dev/ "><img src={techone} alt="sponsors" /></a>
+          </div>
+          <div className="row">
+            <a href="https://www.logitech.com/en-us"><img src={logitech} alt="sponsors" /></a>
+            <a href="https://www.hyperxgaming.com/unitedstates/us"><img src={hyperx} alt="sponsors" /></a>
+            <a href="https://www.voiceflow.com/"><img src={voiceflow} alt="sponsors" /></a>
+          </div>
+          <div className="row">
+            <a href="https://techone.dev/"><img src={techone} alt="sponsors" /></a>
+            <a href="https://www.elevatewomeninstem.com/"><img src={ewis} alt="sponsors" /></a>
+            <a href="https://inclusion.cs.umd.edu/"><img src={umd} alt="sponsors" /></a>
+          </div>
+          <br></br>
+          <br></br>
+          <div className="row">
+            <a href="https://porkbun.com/"><img src={porkbun} alt="sponsors" /></a>
+            <a href="https://replit.com/"><img src={replit} alt="sponsors" /></a>
+            <a href="https://www.stickermule.com/"><img src={mule} alt="sponsors" /></a>
+            <a href="https://www.wolfram.com/"><img src={wolfram} alt="sponsors" /></a>
+          </div>
+          <div className="row">
+            <a href="https://artofproblemsolving.com/"><img src={aops} alt="sponsors" /></a>
+            <a href="https://1password.com/"><img src={password} alt="sponsors" /></a>
+            <a href="https://balsamiq.com/"><img src={balsamiq} alt="sponsors" /></a>
+          </div>
+          <div className="row">
+            <a href="https://ittakesahuman.com/escalate.html"><img src={escelate} alt="sponsors" /></a>
+            <a href="https://www.stickergiant.com/"><img src={stickergiant} alt="sponsors" /></a>
+            <a href="https://www.arduino.cc/"><img src={arduino} alt="sponsors" /></a>
             <a href="https://advancingwomenintech.org/ "><img src={awit} alt="sponsors" /></a>
-            <a href="https://www.stickermule.com/ "><img src={mule} alt="sponsors" /></a>
           </div>
         </div>
         <p className="para">

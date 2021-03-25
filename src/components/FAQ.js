@@ -44,6 +44,10 @@ function FAQ() {
               content="Nope! There will be a team formation event at MoCoHacks. You may compete in teams of up to four people. You choose who you want to work with."
             />
             <Accordion
+              title="Who gets swag?"
+              content="Everyone who submits a project is eligible for swag (t-shirts, stickers, coupons, and more!). Certain events and workshops will also give out swag for attending!"
+            />
+            <Accordion
               title="Any other questions?"
               content="Feel free to email us anytime at outreach@mocohacks.org."
             />

@@ -27,12 +27,12 @@ import stickergiant from "../images/Logos/StickerGiant-white.svg"
 import capitol from "../images/Logos/capitol.png"
 import awit from "../images/Logos/AWIT.svg"
 import mule from "../images/Logos/stickermule.svg"
-import intellipoint from "../images/Logos/intellipoint.png"
-import inky from "../images/Logos/inky.png"
+import intellipoint from "../images/Logos/Intellipoint.svg"
+import inky from "../images/Logos/INKY.svg"
 import brivo from "../images/Logos/brivo.png"
 import modus from "../images/Logos/modus.svg"
 import replit from "../images/Logos/replit.svg"
-import wolfram from "../images/Logos/wolfram.png"
+import wolfram from "../images/Logos/wolfram.svg"
 import arduino from "../images/Logos/arduino.png"
 
 import '../styles/Sponsors.css';
@@ -81,6 +81,7 @@ function Sponsors() {
             <a href="https://balsamiq.com/"><img src={balsamiq} alt="sponsors" /></a>
           </div>
           <div className="row">
+            <a href="https://ittakesahuman.com/"><img src={secwhite} alt="sponsors" /></a>
             <a href="https://ittakesahuman.com/escalate.html"><img src={escelate} alt="sponsors" /></a>
             <a href="https://www.stickergiant.com/"><img src={stickergiant} alt="sponsors" /></a>
             <a href="https://www.arduino.cc/"><img src={arduino} alt="sponsors" /></a>

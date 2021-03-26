@@ -35,7 +35,8 @@ function Speakers() {
                     </div>
                     <b><p className="text" style={{ fontSize: "1.5em" }}>Benjamin Wu</p></b>
                     <p className="text">
-                        Co-Founder and CTO of Voiceflow
+        President and CEO of MCEDC
+                       
                     </p>
                 </div>
                 <div className="card-front">
@@ -46,7 +47,7 @@ function Speakers() {
                     </div>
                     <b><p className="text" style={{ fontSize: "1.5em" }}>Tyler Han</p></b>
                     <p className="text">
-                        President and CEO of MCEDC
+                         Co-Founder and CTO of Voiceflow
                     </p>
                 </div>
                 <div className="card-front">

@@ -12,6 +12,9 @@ import Wu from '../images/speakers/wu.png';
 function Speakers() {
     return (
         <div className="body tracks">
+            <div className="centerIt">
+                <h1 className="title">Keynote Speakers</h1>
+            </div>
             <div className="card">
                 <div className="card-front">
                     <div className="align-circle">
@@ -21,7 +24,7 @@ function Speakers() {
                     </div>
                     <b><p className="text" style={{ fontSize: "1.5em" }}>Zach Latta</p></b>
                     <p className="text">
-                        Founder and Executive Director of Hack Club. Thiel Fellow; Forbes 30 Under 30 List.
+                        Founder and Executive Director of Hack Club. Thiel Fellow; Forbes 30 Under 30
                     </p>
                 </div>
                 <div className="card-front">
@@ -32,7 +35,7 @@ function Speakers() {
                     </div>
                     <b><p className="text" style={{ fontSize: "1.5em" }}>Benjamin Wu</p></b>
                     <p className="text">
-                        President and CEO of MCEDC; responsible for bringing top talent, tech, and business growth to MoCo. MoCoHacks is co-hosted by MCEDC for the 2021 season!
+                        Co-Founder and CTO of Voiceflow
                     </p>
                 </div>
                 <div className="card-front">
@@ -43,8 +46,7 @@ function Speakers() {
                     </div>
                     <b><p className="text" style={{ fontSize: "1.5em" }}>Tyler Han</p></b>
                     <p className="text">
-                        Co-Founder and CTO of Voiceflow. UToronto CS grad.
-                        Voiceflow is providing $144K+ worth of PRO licenses to all 350+ MoCoHacks participants!
+                        President and CEO of MCEDC
                     </p>
                 </div>
                 <div className="card-front">
@@ -55,7 +57,7 @@ function Speakers() {
                     </div>
                     <b><p className="text" style={{ fontSize: "1.5em" }}>Nancy Wang</p></b>
                     <p className="text">
-                        GM of Data Protection Services @ Amazon AWS. Angel investor. UPenn CS grad. CEO of Advancing Women in Tech (AWIT): global 501(c)3 with 16K+ members — a community partner of MoCoHacks!
+                        GM of Data Protection Services @ Amazon AWS. Angel investor.. CEO of Advancing Women in Tech (AWIT)
                     </p>
                 </div>
                 <div className="card-front">
@@ -66,7 +68,7 @@ function Speakers() {
                     </div>
                     <b><p className="text" style={{ fontSize: "1.5em" }}>Will Jawando</p></b>
                     <p className="text">
-                        MoCo Councilmember (at-large) since 2018. Attorney, activist, and community leader with lifelong dedication to public service. Catholic Uni grad (JD). Worked with Pelosi and Obama.
+                        MoCo Councilmember (at-large) since 2018. Attorney, activist, and community leader with lifelong dedication to public service.
                     </p>
                 </div>
                 <div className="card-front">
@@ -77,7 +79,7 @@ function Speakers() {
                     </div>
                     <b><p className="text" style={{ fontSize: "1.5em" }}>Evan Glass</p></b>
                     <p className="text">
-                        MoCo Councilmember (at-large) since 2018; first LGBTQ+ member. Previously a CNN journalist for 12 years covering Congress, presidential campaigns and national politics.
+                        MoCo Councilmember (at-large) since 2018; first LGBTQ+ member.
                     </p>
                 </div>
             </div>

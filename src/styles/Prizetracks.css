@@ -1,7 +1,21 @@
+.tracks {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.centerIt {
+  width: 70%;
+  display: flex;
+  justify-content: start;
+}
+
 .card {
   display: grid;
   min-height: 100%;
   grid-template-columns: repeat(3, minmax(auto, 1fr));
+  width: 70%;
 }
 
 @media (max-width: 1505px) {

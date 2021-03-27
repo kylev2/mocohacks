@@ -58,7 +58,7 @@ function Speakers() {
                     </div>
                     <b><p className="text" style={{ fontSize: "1.5em" }}>Nancy Wang</p></b>
                     <p className="text">
-                        GM of Data Protection Services @ Amazon AWS. Angel investor.. CEO of Advancing Women in Tech (AWIT)
+                        GM of Data Protection Services @ Amazon AWS. Angel investor. CEO of Advancing Women in Tech (AWIT)
                     </p>
                 </div>
                 <div className="card-front">

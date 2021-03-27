@@ -11,6 +11,10 @@
   margin: 3em 0;
 }
 
+.adjust > a > img {
+  height: 75px;
+}
+
 .row {
   display: flex;
   height: auto;
@@ -35,6 +39,10 @@
   
   .bigger > a > img {
     height: 75px;
+  }
+
+  .adjust > a > img {
+    height: 40px;
   }
 
   .row {

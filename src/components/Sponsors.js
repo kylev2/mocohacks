@@ -57,12 +57,12 @@ function Sponsors() {
             <a href="https://moduscreate.com/"><img src={modus} alt="sponsors" /></a>
             <a href="https://www.captechu.edu/"><img src={capitol} alt="sponsors" /></a>
           </div>
-          <div className="row">
+          <div className="row bigger adjust">
             <a href="https://www.logitech.com/en-us"><img src={logitech} alt="sponsors" /></a>
             <a href="https://www.hyperxgaming.com/unitedstates/us"><img src={hyperx} alt="sponsors" /></a>
             <a href="https://www.voiceflow.com/"><img src={voiceflow} alt="sponsors" /></a>
           </div>
-          <div className="row">
+          <div className="row bigger adjust">
             <a href="https://techone.dev/"><img src={techone} alt="sponsors" /></a>
             <a href="https://porkbun.com/"><img src={porkbun} alt="sponsors" /></a>
             <a href="https://inclusion.cs.umd.edu/"><img src={umd} alt="sponsors" /></a>

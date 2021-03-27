@@ -8,7 +8,7 @@ function Prizetracks() {
         <center>
             <Iframe url="https://upgood.org/"
                 id="schedule"
-                width="85%"
+                width="100%"
                 height="750px"
             />
         </center>

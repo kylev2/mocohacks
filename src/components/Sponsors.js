@@ -64,13 +64,13 @@ function Sponsors() {
           </div>
           <div className="row">
             <a href="https://techone.dev/"><img src={techone} alt="sponsors" /></a>
-            <a href="https://www.elevatewomeninstem.com/"><img src={ewis} alt="sponsors" /></a>
+            <a href="https://porkbun.com/"><img src={porkbun} alt="sponsors" /></a>
             <a href="https://inclusion.cs.umd.edu/"><img src={umd} alt="sponsors" /></a>
           </div>
           <br></br>
           <br></br>
           <div className="row">
-            <a href="https://porkbun.com/"><img src={porkbun} alt="sponsors" /></a>
+            <a href="https://www.elevatewomeninstem.com/"><img src={ewis} alt="sponsors" /></a>
             <a href="https://replit.com/"><img src={replit} alt="sponsors" /></a>
             <a href="https://www.stickermule.com/"><img src={mule} alt="sponsors" /></a>
             <a href="https://www.wolfram.com/"><img src={wolfram} alt="sponsors" /></a>

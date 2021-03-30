@@ -34,6 +34,7 @@ import modus from "../images/Logos/modus.svg"
 import replit from "../images/Logos/replit.svg"
 import wolfram from "../images/Logos/wolfram.svg"
 import arduino from "../images/Logos/arduino.png"
+import inspirit from "../images/Logos/InspiritAI.png"
 
 import '../styles/Sponsors.css';
 
@@ -70,6 +71,7 @@ function Sponsors() {
           <br></br>
           <br></br>
           <div className="row">
+            <a href="https://www.inspiritai.com/"><img src={inspirit} alt="sponsors" /></a>
             <a href="https://www.elevatewomeninstem.com/"><img src={ewis} alt="sponsors" /></a>
             <a href="https://replit.com/"><img src={replit} alt="sponsors" /></a>
             <a href="https://www.stickermule.com/"><img src={mule} alt="sponsors" /></a>

@@ -92,7 +92,7 @@ function Sponsors() {
         </div>
         <p className="para">
           Interested in sponsoring us? Email us at:
-            </p>
+        </p>
         <a href="mailto:team@mocohacks.org">team@mocohacks.org</a>
         <br />
         <a href="./mch-2021-prospectus.pdf" download="mch-2021-prospectus.pdf">Download our prospectus here!</a>
